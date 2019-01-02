@@ -1,0 +1,19 @@
+{
+  "name": "pocket-change-app",
+  "version": "1.0.0",
+  "description": "An app that helps users create a budget and track their expenses based on that budget.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pocket-change-app"
+  },
+  "author": "Matt Pestridge",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "pg": "^7.7.1"
+  }
+}
